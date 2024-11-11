@@ -1,0 +1,85 @@
+{
+    "courses": [
+        {
+    "id" : 1,
+    "title" : "Game Development",
+    "slug" : "game-development",
+    "description": "lorem ipsum",
+    "price" : 99.99, 
+    "instructor" : "muzammil",
+    "isFeatured" : true,
+    "images" : "/2.jpg"
+        },
+        {
+            "id" : 2,
+            "title" : "Game Development",
+            "slug" : "game-development",
+            "description": "lorem ipsum",
+            "price" : 99.99, 
+            "instructor" : "muzammil",
+            "isFeatured" : true,
+            "images" : "/3.jpg"
+                },
+                {
+                    "id" : 3,
+                    "title" : "Game Development",
+                    "slug" : "game-development",
+                    "description": "lorem ipsum",
+                    "price" : 99.99, 
+                    "instructor" : "muzammil",
+                    "isFeatured" : true,
+                    "images" : "/4.jpg"
+                        },
+                        {
+                            "id" : 4,
+                            "title" : "Game Development",
+                            "slug" : "game-development",
+                            "description": "lorem ipsum",
+                            "price" : 99.99, 
+                            "instructor" : "muzammil",
+                            "isFeatured" : true,
+                            "images" : "/4.jpg"
+                                },
+                                {
+                                    "id" : 5,
+                                    "title" : "Game Development",
+                                    "slug" : "game-development",
+                                    "description": "lorem ipsum",
+                                    "price" : 99.99, 
+                                    "instructor" : "muzammil",
+                                    "isFeatured" : true,
+                                    "images" : "/5.jpg"
+                                        },
+                                        {
+                                            "id" : 6,
+                                            "title" : "Game Development",
+                                            "slug" : "game-development",
+                                            "description": "lorem ipsum",
+                                            "price" : 99.99, 
+                                            "instructor" : "muzammil",
+                                            "isFeatured" : true,
+                                            "images" : "/6.jpg"
+                                                },
+                                                {
+                                                    "id" : 7,
+                                                    "title" : "Game Development",
+                                                    "slug" : "game-development",
+                                                    "description": "lorem ipsum",
+                                                    "price" : 99.99, 
+                                                    "instructor" : "muzammil",
+                                                    "isFeatured" : true,
+                                                    "images" : "/7.jpg"
+                                                        },
+                                                        {
+                                                            "id" : 8,
+                                                            "title" : "Game Development",
+                                                            "slug" : "game-development",
+                                                            "description": "lorem ipsum",
+                                                            "price" : 99.99, 
+                                                            "instructor" : "muzammil",
+                                                            "isFeatured" : false,
+                                                            "images" : "/001.jpg"
+                                                                }
+                                                                                                                                                                                                                                                                                         
+    ]
+    }
