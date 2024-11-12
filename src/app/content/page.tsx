@@ -3,13 +3,11 @@
 import React, { useEffect, useState } from 'react';
 import { Meteors } from '@/components/ui/meteors';
 import Image from 'next/image';
-import avaImage from '/5.jpg';
-
 
 const ContentPage = () => {
   const [isClient, setIsClient] = useState(false);
 
-
+  // Set `isClient` to `true` after the component mounts
   useEffect(() => {
     setIsClient(true);
   }, []);
@@ -45,7 +43,7 @@ const ContentPage = () => {
         <div className="hidden md:flex items-center justify-center w-1/2">
           <div className="relative w-32 h-32 rounded-full overflow-hidden border-4 border-gray-700">
             <Image
-              src={avaImage}
+              src="/5.jpg"
               alt="Contact Us"
               layout="fill"
               objectFit="cover"
